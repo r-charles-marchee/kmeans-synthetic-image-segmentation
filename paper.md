@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Image Segmentation Using K-Means: An Approximate Clustering Approach"
+title: "Approximate Clustering for Image Segmentation Using K-Means on Synthetic Data"
 authors:
   - name: R. Charles Marchee
     orcid: https://orcid.org/0009-0007-2336-7162
@@ -7,7 +7,7 @@ authors:
     email: rmarchee@capellauniversity.edu
 version: 1.0.0
 license: "Apache‑2.0"
-repository: "https://github.com/r-charles-marchee/energy-consumption-estimator-for-small-scale-computing-systems"
+repository: "https://github.com/r-charles-marchee/kmeans-synthetic-image-segmentation"
 
 date: 2025-07-26
 ---
