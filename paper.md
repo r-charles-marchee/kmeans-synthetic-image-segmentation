@@ -1,13 +1,17 @@
 ---
 title: "Approximate Clustering for Image Segmentation Using K-Means on Synthetic Data"
 authors:
-  - name: Richi Charles Marchee
+  - name: R. Charles Marchee
     orcid: https://orcid.org/0009-0007-2336-7162
     affiliation: Capella University
     email: rmarchee@capellauniversity.edu
 version: 1.0.0
+license: "Apache‑2.0"
+repository: "https://github.com/r-charles-marchee/energy-consumption-estimator-for-small-scale-computing-systems"
+
 date: 2025-07-26
 ---
+
 
 # Summary
 
