@@ -34,9 +34,6 @@ This task approximates the challenging problem of image segmentation, which is r
 
 ---
 
-
-
-```md
 ## Installation
 
 To install the necessary dependencies, run the following command:
