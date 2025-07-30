@@ -55,7 +55,7 @@ To run the segmentation script, execute the following:
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/kmeans-synthetic-image-segmentation.git
+git clone https://github.com/r-charles-marchee/kmeans-synthetic-image-segmentation.git
 cd kmeans-synthetic-image-segmentation
 ```
 
