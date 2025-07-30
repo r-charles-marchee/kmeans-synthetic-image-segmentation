@@ -38,7 +38,7 @@ This task approximates the challenging problem of image segmentation, which is r
 
 To install the necessary dependencies, run the following command:
 
-```bash
+
 pip install -r requirements.txt
 Alternatively, you can manually install the dependencies:
 
