@@ -28,11 +28,12 @@ This task approximates the challenging problem of image segmentation, which is r
 ## Requirements
 
 - Python 3.6+
-- numpy
-- matplotlib
-- scikit-learn
+- `numpy`
+- `matplotlib`
+- `scikit-learn`
 
-You can install the required packages with:
+---
 
-```bash
-pip install numpy matplotlib scikit-learn
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
