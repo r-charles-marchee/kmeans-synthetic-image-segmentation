@@ -1,3 +1,21 @@
+--
+title: "Approximate Clustering for Image Segmentation Using K-Means on Synthetic Data"
+authors:
+  - name: Richi Charles Marchee
+    orcid: https://orcid.org/0009-0007-2336-7162
+    affiliation_ids:
+      - 1
+    email: rmarchee@capellauniversity.edu
+version: 1.0.0
+license: "Apache-2.0"
+repository: "https://github.com/r-charles-marchee/kmeans-synthetic-image-segmentation"
+date: 2025-07-26
+
+affiliations:
+  - id: 1
+    name: Capella University
+--
+
 ## Summary  
 This software implements a simple Python-based approach to approximate image segmentation using the K-Means clustering algorithm. Image segmentation, the process of partitioning an image into meaningful regions, is a core problem in computer vision with many applications, including medical imaging and object detection. However, exact solutions for segmentation are often computationally intractable due to their combinatorial complexity and NP-completeness. By generating synthetic images composed of Gaussian blobs and applying K-Means to cluster pixel intensity values, this implementation demonstrates an efficient approximate solution to the segmentation task. The code is designed to be accessible and educational, providing visualization capabilities to help users intuitively understand clustering-based segmentation.
 
