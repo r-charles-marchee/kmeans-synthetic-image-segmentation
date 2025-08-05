@@ -66,7 +66,6 @@ cd kmeans-synthetic-image-segmentation
 ```bash
 jupyter notebook main.ipynb
 ```
-* You can also import and use functions from main.py in your own scripts.
   
 This will generate a synthetic image and display the segmentation result using K-Means clustering.
 
