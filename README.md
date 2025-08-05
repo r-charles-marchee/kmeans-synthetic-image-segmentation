@@ -8,9 +8,11 @@ This project demonstrates an approximate solution to a clustering problem common
 
 The repository contains a Python script that:
 
-- Generates a synthetic 2D image composed of Gaussian blobs (clusters) of points.
-- Applies K-Means clustering to segment these points into clusters.
-- Visualizes the segmented clusters in a 2D scatter plot.
+- A main.py file implementing the core logic:
+  - Synthetic 2D image generation with Gaussian blobs (clusters).
+  - Means clustering applied to segment the image.
+  - Functions for tuning cluster number, plotting, and evaluation.
+- A main.ipynb Jupyter notebook with test cases and visualization examples using the core functions.
 
 This task approximates the challenging problem of image segmentation, which is relevant in the context of computational complexity and NP-Completeness discussions.
 
@@ -62,9 +64,10 @@ cd kmeans-synthetic-image-segmentation
 #### Run the script to generate synthetic image segmentation:
 
 ```bash
-python segmentation.py
+jupyter notebook main.ipynb
 ```
-
+* You can also import and use functions from main.py in your own scripts. *
+  
 This will generate a synthetic image and display the segmentation result using K-Means clustering.
 
 ### License
