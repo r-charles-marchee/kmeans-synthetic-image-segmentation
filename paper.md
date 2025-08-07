@@ -40,7 +40,6 @@ Jain (2010) provides an extensive overview of clustering methods and their appli
 ## Acknowledgements  
 The contributions of the Scikit-learn development team and the Matplotlib community are gratefully acknowledged for their open-source tools that enabled the development and visualization of machine learning algorithms in Python. Their work significantly supported the creation of this software.
 
-
 ---
 
 ## References
