@@ -6,7 +6,7 @@ authors:
     affiliation_ids:
       - 1
     email: rmarchee@capellauniversity.edu
-version: 1.0.0
+version: 2.0.0
 license: "Apache-2.0"
 repository: "https://github.com/r-charles-marchee/kmeans-synthetic-image-segmentation"
 date: 2025-07-26
