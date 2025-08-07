@@ -1,7 +1,7 @@
 --- 
 title: "Approximate Clustering for Image Segmentation Using K-Means on Synthetic Data"
 authors:
-  - name: Richi Charles Marchee
+  - name: R. Charles Marchee
     orcid: https://orcid.org/0009-0007-2336-7162
     affiliation_ids:
       - 1
